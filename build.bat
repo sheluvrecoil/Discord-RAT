@@ -17,7 +17,7 @@ goto main
 :main
 copy Zenny.py building.py
 chcp 65001
-title Zenny Rat Version 0.1
+title VDOT WAS HERE Version 0.1
 mode con: cols=200
 echo      ooooooooooooooooooooooooooooooooooooo
 echo      8                                .d88
